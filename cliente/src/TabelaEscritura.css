@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Container {
+    padding:  10% 10% 0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.Form {
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start !important;
+    gap: 1.5rem;
+
+    /* border: 1px solid red; */
+}

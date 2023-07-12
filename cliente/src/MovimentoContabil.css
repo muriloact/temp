@@ -1,0 +1,17 @@
+.Form{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+    /* border: 1px solid; */
+}
+
+.ContainerBotao {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+
+    /* border: 1px solid; */
+}
